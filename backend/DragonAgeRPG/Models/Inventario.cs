@@ -10,7 +10,7 @@ namespace DragonAgeRPG.Models
         public int IdArma { get; set; }
         public string NomeArma { get; set; }
         public int Ataque { get; set; }
-        public int Dano { get; set; }
+        public string Dano { get; set; }
         public string CaracteristicaArma { get; set; }
         public string GrupoArma { get; set; }
     }
