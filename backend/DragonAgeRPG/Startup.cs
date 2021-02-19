@@ -34,6 +34,12 @@ namespace DragonAgeRPG
             services.AddSingleton<IJogadorDatabaseSettings>(sp => 
                 sp.GetRequiredService<IOptions<JogadorDatabaseSettings>>().Value);
             services.AddSingleton<JogadorService>();
+
+            services.Configure<PersonagemDatabaseSettings>(
+                Configuration.GetSection(nameof(PersonagemDatabaseSettings)));
+            services.AddSingleton<IPersonagemDatabaseSettings>(sp =>
+                sp.GetRequiredService<IOptions<PersonagemDatabaseSettings>>().Value);
+            services.AddSingleton<PersonagemService>();
             services.AddControllers();
             services.AddSwaggerGen(c =>
             {
