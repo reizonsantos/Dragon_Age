@@ -29,8 +29,10 @@ namespace DragonAgeRPG
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            services.Configure<JogadorDatabaseSettings>(Configuration.GetSection(nameof(JogadorDatabaseSettings)));
-            services.AddSingleton<IJogadorDatabaseSettings>(sp => sp.GetRequiredService<IOptions<JogadorDatabaseSettings>>().Value);
+            services.Configure<JogadorDatabaseSettings>(
+                Configuration.GetSection(nameof(JogadorDatabaseSettings)));
+            services.AddSingleton<IJogadorDatabaseSettings>(sp => 
+                sp.GetRequiredService<IOptions<JogadorDatabaseSettings>>().Value);
             services.AddSingleton<JogadorService>();
             services.AddControllers();
             services.AddSwaggerGen(c =>

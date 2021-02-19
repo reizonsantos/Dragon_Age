@@ -1,92 +1,46 @@
-C:\Users\reizo\source\repos\DragonAgeRPG\DragonAgeRPG\bin\Debug\net5.0\appsettings.Development.json
-C:\Users\reizo\source\repos\DragonAgeRPG\DragonAgeRPG\bin\Debug\net5.0\appsettings.json
-C:\Users\reizo\source\repos\DragonAgeRPG\DragonAgeRPG\bin\Debug\net5.0\DragonAgeRPG.exe
-C:\Users\reizo\source\repos\DragonAgeRPG\DragonAgeRPG\bin\Debug\net5.0\DragonAgeRPG.deps.json
-C:\Users\reizo\source\repos\DragonAgeRPG\DragonAgeRPG\bin\Debug\net5.0\DragonAgeRPG.runtimeconfig.json
-C:\Users\reizo\source\repos\DragonAgeRPG\DragonAgeRPG\bin\Debug\net5.0\DragonAgeRPG.runtimeconfig.dev.json
-C:\Users\reizo\source\repos\DragonAgeRPG\DragonAgeRPG\bin\Debug\net5.0\DragonAgeRPG.dll
-C:\Users\reizo\source\repos\DragonAgeRPG\DragonAgeRPG\bin\Debug\net5.0\ref\DragonAgeRPG.dll
-C:\Users\reizo\source\repos\DragonAgeRPG\DragonAgeRPG\bin\Debug\net5.0\DragonAgeRPG.pdb
-C:\Users\reizo\source\repos\DragonAgeRPG\DragonAgeRPG\bin\Debug\net5.0\DnsClient.dll
-C:\Users\reizo\source\repos\DragonAgeRPG\DragonAgeRPG\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
-C:\Users\reizo\source\repos\DragonAgeRPG\DragonAgeRPG\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
-C:\Users\reizo\source\repos\DragonAgeRPG\DragonAgeRPG\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
-C:\Users\reizo\source\repos\DragonAgeRPG\DragonAgeRPG\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
-C:\Users\reizo\source\repos\DragonAgeRPG\DragonAgeRPG\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
-C:\Users\reizo\source\repos\DragonAgeRPG\DragonAgeRPG\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-C:\Users\reizo\source\repos\DragonAgeRPG\DragonAgeRPG\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
-C:\Users\reizo\source\repos\DragonAgeRPG\DragonAgeRPG\bin\Debug\net5.0\Microsoft.OpenApi.dll
-C:\Users\reizo\source\repos\DragonAgeRPG\DragonAgeRPG\bin\Debug\net5.0\MongoDB.Bson.dll
-C:\Users\reizo\source\repos\DragonAgeRPG\DragonAgeRPG\bin\Debug\net5.0\MongoDB.Driver.dll
-C:\Users\reizo\source\repos\DragonAgeRPG\DragonAgeRPG\bin\Debug\net5.0\MongoDB.Driver.Core.dll
-C:\Users\reizo\source\repos\DragonAgeRPG\DragonAgeRPG\bin\Debug\net5.0\MongoDB.Libmongocrypt.dll
-C:\Users\reizo\source\repos\DragonAgeRPG\DragonAgeRPG\bin\Debug\net5.0\SharpCompress.dll
-C:\Users\reizo\source\repos\DragonAgeRPG\DragonAgeRPG\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\reizo\source\repos\DragonAgeRPG\DragonAgeRPG\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\reizo\source\repos\DragonAgeRPG\DragonAgeRPG\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\reizo\source\repos\DragonAgeRPG\DragonAgeRPG\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
-C:\Users\reizo\source\repos\DragonAgeRPG\DragonAgeRPG\bin\Debug\net5.0\runtimes\win\native\libzstd.dll
-C:\Users\reizo\source\repos\DragonAgeRPG\DragonAgeRPG\bin\Debug\net5.0\runtimes\win\native\snappy32.dll
-C:\Users\reizo\source\repos\DragonAgeRPG\DragonAgeRPG\bin\Debug\net5.0\runtimes\win\native\snappy64.dll
-C:\Users\reizo\source\repos\DragonAgeRPG\DragonAgeRPG\obj\Debug\net5.0\DragonAgeRPG.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\reizo\source\repos\DragonAgeRPG\DragonAgeRPG\obj\Debug\net5.0\DragonAgeRPG.AssemblyInfoInputs.cache
-C:\Users\reizo\source\repos\DragonAgeRPG\DragonAgeRPG\obj\Debug\net5.0\DragonAgeRPG.AssemblyInfo.cs
-C:\Users\reizo\source\repos\DragonAgeRPG\DragonAgeRPG\obj\Debug\net5.0\DragonAgeRPG.csproj.CoreCompileInputs.cache
-C:\Users\reizo\source\repos\DragonAgeRPG\DragonAgeRPG\obj\Debug\net5.0\DragonAgeRPG.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\reizo\source\repos\DragonAgeRPG\DragonAgeRPG\obj\Debug\net5.0\DragonAgeRPG.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\reizo\source\repos\DragonAgeRPG\DragonAgeRPG\obj\Debug\net5.0\staticwebassets\DragonAgeRPG.StaticWebAssets.Manifest.cache
-C:\Users\reizo\source\repos\DragonAgeRPG\DragonAgeRPG\obj\Debug\net5.0\staticwebassets\DragonAgeRPG.StaticWebAssets.xml
-C:\Users\reizo\source\repos\DragonAgeRPG\DragonAgeRPG\obj\Debug\net5.0\scopedcss\bundle\DragonAgeRPG.styles.css
-C:\Users\reizo\source\repos\DragonAgeRPG\DragonAgeRPG\obj\Debug\net5.0\DragonAgeRPG.RazorTargetAssemblyInfo.cache
-C:\Users\reizo\source\repos\DragonAgeRPG\DragonAgeRPG\obj\Debug\net5.0\DragonAgeRPG.csproj.CopyComplete
-C:\Users\reizo\source\repos\DragonAgeRPG\DragonAgeRPG\obj\Debug\net5.0\DragonAgeRPG.dll
-C:\Users\reizo\source\repos\DragonAgeRPG\DragonAgeRPG\obj\Debug\net5.0\ref\DragonAgeRPG.dll
-C:\Users\reizo\source\repos\DragonAgeRPG\DragonAgeRPG\obj\Debug\net5.0\DragonAgeRPG.pdb
-C:\Users\reizo\source\repos\DragonAgeRPG\DragonAgeRPG\obj\Debug\net5.0\DragonAgeRPG.genruntimeconfig.cache
-C:\Users\reizo\source\repos\DragonAgeRPG\DragonAgeRPG\obj\Debug\net5.0\DragonAgeRPG.csprojAssemblyReference.cache
-C:\Users\reizo\Desktop\Dragon_Age\backend\DragonAgeRPG\bin\Debug\net5.0\appsettings.Development.json
-C:\Users\reizo\Desktop\Dragon_Age\backend\DragonAgeRPG\bin\Debug\net5.0\appsettings.json
-C:\Users\reizo\Desktop\Dragon_Age\backend\DragonAgeRPG\bin\Debug\net5.0\DragonAgeRPG.exe
-C:\Users\reizo\Desktop\Dragon_Age\backend\DragonAgeRPG\bin\Debug\net5.0\DragonAgeRPG.deps.json
-C:\Users\reizo\Desktop\Dragon_Age\backend\DragonAgeRPG\bin\Debug\net5.0\DragonAgeRPG.runtimeconfig.json
-C:\Users\reizo\Desktop\Dragon_Age\backend\DragonAgeRPG\bin\Debug\net5.0\DragonAgeRPG.runtimeconfig.dev.json
-C:\Users\reizo\Desktop\Dragon_Age\backend\DragonAgeRPG\bin\Debug\net5.0\DragonAgeRPG.dll
-C:\Users\reizo\Desktop\Dragon_Age\backend\DragonAgeRPG\bin\Debug\net5.0\ref\DragonAgeRPG.dll
-C:\Users\reizo\Desktop\Dragon_Age\backend\DragonAgeRPG\bin\Debug\net5.0\DragonAgeRPG.pdb
-C:\Users\reizo\Desktop\Dragon_Age\backend\DragonAgeRPG\bin\Debug\net5.0\DnsClient.dll
-C:\Users\reizo\Desktop\Dragon_Age\backend\DragonAgeRPG\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
-C:\Users\reizo\Desktop\Dragon_Age\backend\DragonAgeRPG\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
-C:\Users\reizo\Desktop\Dragon_Age\backend\DragonAgeRPG\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
-C:\Users\reizo\Desktop\Dragon_Age\backend\DragonAgeRPG\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
-C:\Users\reizo\Desktop\Dragon_Age\backend\DragonAgeRPG\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
-C:\Users\reizo\Desktop\Dragon_Age\backend\DragonAgeRPG\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-C:\Users\reizo\Desktop\Dragon_Age\backend\DragonAgeRPG\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
-C:\Users\reizo\Desktop\Dragon_Age\backend\DragonAgeRPG\bin\Debug\net5.0\Microsoft.OpenApi.dll
-C:\Users\reizo\Desktop\Dragon_Age\backend\DragonAgeRPG\bin\Debug\net5.0\MongoDB.Bson.dll
-C:\Users\reizo\Desktop\Dragon_Age\backend\DragonAgeRPG\bin\Debug\net5.0\MongoDB.Driver.dll
-C:\Users\reizo\Desktop\Dragon_Age\backend\DragonAgeRPG\bin\Debug\net5.0\MongoDB.Driver.Core.dll
-C:\Users\reizo\Desktop\Dragon_Age\backend\DragonAgeRPG\bin\Debug\net5.0\MongoDB.Libmongocrypt.dll
-C:\Users\reizo\Desktop\Dragon_Age\backend\DragonAgeRPG\bin\Debug\net5.0\SharpCompress.dll
-C:\Users\reizo\Desktop\Dragon_Age\backend\DragonAgeRPG\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\reizo\Desktop\Dragon_Age\backend\DragonAgeRPG\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\reizo\Desktop\Dragon_Age\backend\DragonAgeRPG\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\reizo\Desktop\Dragon_Age\backend\DragonAgeRPG\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
-C:\Users\reizo\Desktop\Dragon_Age\backend\DragonAgeRPG\bin\Debug\net5.0\runtimes\win\native\libzstd.dll
-C:\Users\reizo\Desktop\Dragon_Age\backend\DragonAgeRPG\bin\Debug\net5.0\runtimes\win\native\snappy32.dll
-C:\Users\reizo\Desktop\Dragon_Age\backend\DragonAgeRPG\bin\Debug\net5.0\runtimes\win\native\snappy64.dll
-C:\Users\reizo\Desktop\Dragon_Age\backend\DragonAgeRPG\obj\Debug\net5.0\DragonAgeRPG.csprojAssemblyReference.cache
-C:\Users\reizo\Desktop\Dragon_Age\backend\DragonAgeRPG\obj\Debug\net5.0\DragonAgeRPG.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\reizo\Desktop\Dragon_Age\backend\DragonAgeRPG\obj\Debug\net5.0\DragonAgeRPG.AssemblyInfoInputs.cache
-C:\Users\reizo\Desktop\Dragon_Age\backend\DragonAgeRPG\obj\Debug\net5.0\DragonAgeRPG.AssemblyInfo.cs
-C:\Users\reizo\Desktop\Dragon_Age\backend\DragonAgeRPG\obj\Debug\net5.0\DragonAgeRPG.csproj.CoreCompileInputs.cache
-C:\Users\reizo\Desktop\Dragon_Age\backend\DragonAgeRPG\obj\Debug\net5.0\DragonAgeRPG.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\reizo\Desktop\Dragon_Age\backend\DragonAgeRPG\obj\Debug\net5.0\DragonAgeRPG.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\reizo\Desktop\Dragon_Age\backend\DragonAgeRPG\obj\Debug\net5.0\staticwebassets\DragonAgeRPG.StaticWebAssets.Manifest.cache
-C:\Users\reizo\Desktop\Dragon_Age\backend\DragonAgeRPG\obj\Debug\net5.0\staticwebassets\DragonAgeRPG.StaticWebAssets.xml
-C:\Users\reizo\Desktop\Dragon_Age\backend\DragonAgeRPG\obj\Debug\net5.0\scopedcss\bundle\DragonAgeRPG.styles.css
-C:\Users\reizo\Desktop\Dragon_Age\backend\DragonAgeRPG\obj\Debug\net5.0\DragonAgeRPG.RazorTargetAssemblyInfo.cache
-C:\Users\reizo\Desktop\Dragon_Age\backend\DragonAgeRPG\obj\Debug\net5.0\DragonAgeRPG.csproj.CopyComplete
-C:\Users\reizo\Desktop\Dragon_Age\backend\DragonAgeRPG\obj\Debug\net5.0\DragonAgeRPG.dll
-C:\Users\reizo\Desktop\Dragon_Age\backend\DragonAgeRPG\obj\Debug\net5.0\ref\DragonAgeRPG.dll
-C:\Users\reizo\Desktop\Dragon_Age\backend\DragonAgeRPG\obj\Debug\net5.0\DragonAgeRPG.pdb
-C:\Users\reizo\Desktop\Dragon_Age\backend\DragonAgeRPG\obj\Debug\net5.0\DragonAgeRPG.genruntimeconfig.cache
+C:\Users\reizo\Desktop\Nova pasta\Dragon_Age\backend\DragonAgeRPG\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\reizo\Desktop\Nova pasta\Dragon_Age\backend\DragonAgeRPG\bin\Debug\net5.0\appsettings.json
+C:\Users\reizo\Desktop\Nova pasta\Dragon_Age\backend\DragonAgeRPG\bin\Debug\net5.0\DragonAgeRPG.exe
+C:\Users\reizo\Desktop\Nova pasta\Dragon_Age\backend\DragonAgeRPG\bin\Debug\net5.0\DragonAgeRPG.deps.json
+C:\Users\reizo\Desktop\Nova pasta\Dragon_Age\backend\DragonAgeRPG\bin\Debug\net5.0\DragonAgeRPG.runtimeconfig.json
+C:\Users\reizo\Desktop\Nova pasta\Dragon_Age\backend\DragonAgeRPG\bin\Debug\net5.0\DragonAgeRPG.runtimeconfig.dev.json
+C:\Users\reizo\Desktop\Nova pasta\Dragon_Age\backend\DragonAgeRPG\bin\Debug\net5.0\DragonAgeRPG.dll
+C:\Users\reizo\Desktop\Nova pasta\Dragon_Age\backend\DragonAgeRPG\bin\Debug\net5.0\ref\DragonAgeRPG.dll
+C:\Users\reizo\Desktop\Nova pasta\Dragon_Age\backend\DragonAgeRPG\bin\Debug\net5.0\DragonAgeRPG.pdb
+C:\Users\reizo\Desktop\Nova pasta\Dragon_Age\backend\DragonAgeRPG\bin\Debug\net5.0\DnsClient.dll
+C:\Users\reizo\Desktop\Nova pasta\Dragon_Age\backend\DragonAgeRPG\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\reizo\Desktop\Nova pasta\Dragon_Age\backend\DragonAgeRPG\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\reizo\Desktop\Nova pasta\Dragon_Age\backend\DragonAgeRPG\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\reizo\Desktop\Nova pasta\Dragon_Age\backend\DragonAgeRPG\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\reizo\Desktop\Nova pasta\Dragon_Age\backend\DragonAgeRPG\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\reizo\Desktop\Nova pasta\Dragon_Age\backend\DragonAgeRPG\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\reizo\Desktop\Nova pasta\Dragon_Age\backend\DragonAgeRPG\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\reizo\Desktop\Nova pasta\Dragon_Age\backend\DragonAgeRPG\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\reizo\Desktop\Nova pasta\Dragon_Age\backend\DragonAgeRPG\bin\Debug\net5.0\MongoDB.Bson.dll
+C:\Users\reizo\Desktop\Nova pasta\Dragon_Age\backend\DragonAgeRPG\bin\Debug\net5.0\MongoDB.Driver.dll
+C:\Users\reizo\Desktop\Nova pasta\Dragon_Age\backend\DragonAgeRPG\bin\Debug\net5.0\MongoDB.Driver.Core.dll
+C:\Users\reizo\Desktop\Nova pasta\Dragon_Age\backend\DragonAgeRPG\bin\Debug\net5.0\MongoDB.Libmongocrypt.dll
+C:\Users\reizo\Desktop\Nova pasta\Dragon_Age\backend\DragonAgeRPG\bin\Debug\net5.0\SharpCompress.dll
+C:\Users\reizo\Desktop\Nova pasta\Dragon_Age\backend\DragonAgeRPG\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\reizo\Desktop\Nova pasta\Dragon_Age\backend\DragonAgeRPG\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\reizo\Desktop\Nova pasta\Dragon_Age\backend\DragonAgeRPG\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\reizo\Desktop\Nova pasta\Dragon_Age\backend\DragonAgeRPG\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\reizo\Desktop\Nova pasta\Dragon_Age\backend\DragonAgeRPG\bin\Debug\net5.0\runtimes\win\native\libzstd.dll
+C:\Users\reizo\Desktop\Nova pasta\Dragon_Age\backend\DragonAgeRPG\bin\Debug\net5.0\runtimes\win\native\snappy32.dll
+C:\Users\reizo\Desktop\Nova pasta\Dragon_Age\backend\DragonAgeRPG\bin\Debug\net5.0\runtimes\win\native\snappy64.dll
+C:\Users\reizo\Desktop\Nova pasta\Dragon_Age\backend\DragonAgeRPG\obj\Debug\net5.0\DragonAgeRPG.csprojAssemblyReference.cache
+C:\Users\reizo\Desktop\Nova pasta\Dragon_Age\backend\DragonAgeRPG\obj\Debug\net5.0\DragonAgeRPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reizo\Desktop\Nova pasta\Dragon_Age\backend\DragonAgeRPG\obj\Debug\net5.0\DragonAgeRPG.AssemblyInfoInputs.cache
+C:\Users\reizo\Desktop\Nova pasta\Dragon_Age\backend\DragonAgeRPG\obj\Debug\net5.0\DragonAgeRPG.AssemblyInfo.cs
+C:\Users\reizo\Desktop\Nova pasta\Dragon_Age\backend\DragonAgeRPG\obj\Debug\net5.0\DragonAgeRPG.csproj.CoreCompileInputs.cache
+C:\Users\reizo\Desktop\Nova pasta\Dragon_Age\backend\DragonAgeRPG\obj\Debug\net5.0\DragonAgeRPG.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\reizo\Desktop\Nova pasta\Dragon_Age\backend\DragonAgeRPG\obj\Debug\net5.0\DragonAgeRPG.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\reizo\Desktop\Nova pasta\Dragon_Age\backend\DragonAgeRPG\obj\Debug\net5.0\staticwebassets\DragonAgeRPG.StaticWebAssets.Manifest.cache
+C:\Users\reizo\Desktop\Nova pasta\Dragon_Age\backend\DragonAgeRPG\obj\Debug\net5.0\staticwebassets\DragonAgeRPG.StaticWebAssets.xml
+C:\Users\reizo\Desktop\Nova pasta\Dragon_Age\backend\DragonAgeRPG\obj\Debug\net5.0\scopedcss\bundle\DragonAgeRPG.styles.css
+C:\Users\reizo\Desktop\Nova pasta\Dragon_Age\backend\DragonAgeRPG\obj\Debug\net5.0\DragonAgeRPG.RazorTargetAssemblyInfo.cache
+C:\Users\reizo\Desktop\Nova pasta\Dragon_Age\backend\DragonAgeRPG\obj\Debug\net5.0\DragonAgeRPG.csproj.CopyComplete
+C:\Users\reizo\Desktop\Nova pasta\Dragon_Age\backend\DragonAgeRPG\obj\Debug\net5.0\DragonAgeRPG.dll
+C:\Users\reizo\Desktop\Nova pasta\Dragon_Age\backend\DragonAgeRPG\obj\Debug\net5.0\ref\DragonAgeRPG.dll
+C:\Users\reizo\Desktop\Nova pasta\Dragon_Age\backend\DragonAgeRPG\obj\Debug\net5.0\DragonAgeRPG.pdb
+C:\Users\reizo\Desktop\Nova pasta\Dragon_Age\backend\DragonAgeRPG\obj\Debug\net5.0\DragonAgeRPG.genruntimeconfig.cache

@@ -12,11 +12,12 @@ namespace DragonAgeRPG.Services
     {
         private readonly IMongoCollection<FichaJogador> _jogadores;
 
-        public JogadorService(IConfiguration config)
+        public JogadorService(IJogadorDatabaseSettings settings)
         {
-            var client = new MongoClient(config.GetConnectionString("dragonage"));
-            var database = client.GetDatabase("dragonage");
-            _jogadores = database.GetCollection<FichaJogador>("FichaJogador");
+            var client = new MongoClient(settings.ConnectionString);
+            var database = client.GetDatabase(settings.DatabaseName);
+
+            _jogadores = database.GetCollection<FichaJogador>(settings.CollectionName);
         }
 
         public List<FichaJogador> Get()
