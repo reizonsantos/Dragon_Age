@@ -3,16 +3,9 @@ import 'font-awesome/css/font-awesome.min.css';
 import './App.css'
 import React from 'react'
 
-import Logo from '../components/Logo'
-import Nav from '../components/Nav'
-import Main from '../components/Main'
-import Footer from '../components/Footer'
+import Information from '../components/information/information'
 
 export default props => 
     <div className="app">
-        <Logo />
-        <Nav />
-        <Main icon="home" title="Início"
-            subtitle="Segundo Projeto do capítulo de React."/>
-        <Footer />
+        <Information />
     </div>
