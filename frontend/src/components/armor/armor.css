@@ -1,0 +1,25 @@
+.armorContainer {
+    display: flex;
+    justify-content: center;
+    border: 1px solid yellow;
+
+}
+
+
+.Speed {
+    float: left;
+    display: flex;
+    width: 30%; 
+}
+
+.Defense {
+    float: center;
+    display: flex;
+    width: 30%;
+}
+
+.Armor {
+    float: right;
+    display: flex;
+    width: 30%;
+}

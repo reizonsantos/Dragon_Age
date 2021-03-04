@@ -1,0 +1,22 @@
+.loginContainer {
+    position: absolute; 
+    left: 45%;
+    top: 25%; 
+}
+
+.Form{
+    display: flex;
+    justify-content: center;
+
+}
+
+.button{
+    display: flex;
+    justify-content: center;
+}
+
+.linkCreateAccount{
+    display: flex;
+    justify-content: center;
+}
+

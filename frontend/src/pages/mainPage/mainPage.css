@@ -1,0 +1,8 @@
+.layout{
+    height: 100vh;
+}
+
+.footer{
+    display: flex;
+    justify-content: center;
+}

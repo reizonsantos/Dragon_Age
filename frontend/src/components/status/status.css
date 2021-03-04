@@ -1,0 +1,10 @@
+.characterClass Table{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-content: center;
+}
+
+.statusContainer {
+    border: 1px solid red;
+}
