@@ -1,10 +1,11 @@
 import React from 'react';
-import './createAccount.css'
+import './createCharacterPage.css'
 import 'antd/dist/antd.css';
 
 import { Layout } from 'antd'
 import Menu from '../../components/menu/menu'
-import CreateAccount from '../../components/pageCreateAccount/createAccount'
+import CreateCharacter from '../../components/pageCreateCharacter/createCharacter'
+
 
 const { Content, Footer, Sider } = Layout;
 
@@ -19,7 +20,7 @@ export default function CreateAccountPage() {
             </Sider>
             <Layout>
                 <Content>
-                    <CreateAccount />
+                    <CreateCharacter />
                 </Content>
                 <Footer className="footer">
                     Dragon Age ©2021 Created by Reizon Santos
@@ -28,5 +29,3 @@ export default function CreateAccountPage() {
         </Layout>
     )
 }
-
-

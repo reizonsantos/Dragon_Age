@@ -1,16 +1,8 @@
 .informationContainer{
-    padding: 50px;
-}
-
-.characterDate{
-    width: 100%;
-    margin: 0px auto;
-    border: 1px solid green;
+    display: flex;
+    flex-direction: row;
 }
 
 .characterImage{
-    padding: 10px;
-    background-color: aquamarine;
     border: 1px solid black;
-    float: left;
 }
