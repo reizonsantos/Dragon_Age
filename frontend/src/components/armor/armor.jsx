@@ -1,41 +1,45 @@
-import React from 'react'
+import React, { useState } from 'react'
 import './armor.css'
-import 'bootstrap/dist/css/bootstrap.min.css';
-import { InputGroup, FormControl } from 'react-bootstrap'
+import 'antd/dist/antd.css';
+
+import { Form, InputNumber, Input, Modal, Button } from 'antd'
+
+import Inventory from '../inventory/inventory'
 
 export default function () {
+    const[visible, setVisible] = useState(false);
+
     return (
         <div className="armorContainer">
-            <div>
-                <div className="Speed">
-                <InputGroup>
-                    <InputGroup.Prepend>
-                        <InputGroup.Text>Velocidade</InputGroup.Text>
-                    </InputGroup.Prepend>
-                    <FormControl as="textarea" aria-label="With textarea" placement="bottom" />
-                </InputGroup>
-                </div>
-                <div className="Defense">
-                <InputGroup>
-                    <InputGroup.Prepend>
-                        <InputGroup.Text>Defesa</InputGroup.Text>
-                    </InputGroup.Prepend>
-                    <FormControl as="textarea" aria-label="With textarea" placement="bottom" />
-                </InputGroup>
-                </div>
-                <div className="Armor">
-                <InputGroup>
-                    <InputGroup.Prepend>
-                        <InputGroup.Text>Armadura</InputGroup.Text>
-                    </InputGroup.Prepend>
-                    <FormControl as="textarea" aria-label="With textarea" placement="bottom" />
-                </InputGroup>
-                </div>
+            <div className="armor">
+                <Form>
+                    <Form.Item label="Velocidade inicial" name="characterInitialSpeed">
+                        <InputNumber min="1"/>
+                    </Form.Item>
+                    <Form.Item label="Defesa inicial" name="characterInitialDefense">
+                        <InputNumber min="1" />
+                    </Form.Item>
+                    <Form.Item label="Armadura inicial" name="characterInitialArmor">
+                        <InputNumber min="1" />
+                    </Form.Item>
+                    <Form.Item label="Tipo de Armadura inicial" name="characterInitialTypeArmor">
+                        <Input />
+                    </Form.Item>
+                </Form>
             </div>
-            <div>
-                <InputGroup>
-                    <FormControl as="textarea" placeholder="Tipo de Armadura" />
-                </InputGroup>
+            <div className="modalInventory">
+                <Button type="primary" onClick={() => setVisible(true)}>
+                    Adicionar arma
+                </Button>
+                <Modal 
+                    title="Adicione suas armas"
+                    centered
+                    visible={visible}
+                    onOk={() => setVisible(false)}
+                    onCancel={() => setVisible(false)}           
+                >
+                    <Inventory />
+                </Modal>
             </div>
         </div>
     )

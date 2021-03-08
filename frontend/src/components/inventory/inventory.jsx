@@ -1,48 +1,59 @@
 import React from 'react'
 import './inventory.css'
-import 'bootstrap/dist/css/bootstrap.min.css';
-import { Table } from 'react-bootstrap'
+import 'antd/dist/antd.css';
+
+import { Table } from 'antd';
+
+const columns = [
+  {
+    title: 'Arma',
+    dataIndex: 'weaponName',
+    key: 'weaponName',
+  },
+  {
+    title: 'Ataque',
+    dataIndex: 'attack',
+    key: 'attack',
+  },
+  {
+    title: 'Dano',
+    dataIndex: 'damage',
+    key: 'damage',
+  },
+  {
+    key: 'edit',
+    render: text => <a>Editar</a>
+  },
+  {
+    key: 'delete',
+    render: text => <a>Deletar</a>
+  },
+];
+
+const data = [
+  {
+    key: '1',
+    weaponName: 'Manopla',
+    attack: '+4',
+    damage: '1d3+5'
+  },
+  {
+    key: '2',
+    weaponName: 'Everton',
+    attack: '+50',
+    damage: '4d10+100',
+  },
+];
 
 export default function () {
     return (
-
         <div className="inventoryContainer">
-            <Table responsive="md">
-                <tread>
-                    <tr>
-                        <th>Arma</th>
-                        <th>Ataque</th>
-                        <th>Dano</th>
-                    </tr>
-                </tread>
-                <tbody>
-                    <tr>
-                        <th>Manopla</th>
-                        <th>+4</th>
-                        <th>1d4+5</th>
-                    </tr>
-                    <tr>
-                        <th></th>
-                        <th></th>
-                        <th></th>
-                    </tr>
-                    <tr>
-                        <th></th>
-                        <th></th>
-                        <th></th>
-                    </tr>
-                    <tr>
-                        <th></th>
-                        <th></th>
-                        <th></th>
-                    </tr>
-                    <tr>
-                        <th></th>
-                        <th></th>
-                        <th></th>
-                    </tr>
-                </tbody>
-            </Table>
+            <div className="tableWeapon">
+                <Table columns={columns} dataSource={data} />
+            </div>
+            <div>
+                Botao de adicionar
+            </div>
         </div>
     )
 }
