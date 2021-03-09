@@ -1,0 +1,4 @@
+.spellsContainer{
+    display: flex;
+    flex-direction: column;
+}

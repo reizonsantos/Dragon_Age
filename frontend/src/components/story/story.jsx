@@ -1,15 +1,17 @@
 import React from 'react'
 import './story.css'
-import 'bootstrap/dist/css/bootstrap.min.css';
-import { InputGroup, FormControl } from 'react-bootstrap'
+import 'antd/dist/antd.css';
+
+import { Input } from 'antd'
+const { TextArea } = Input;
 
 export default function () {
     return (
         <div className='storyContainer'>
-            <InputGroup>
-                    <p>Conceito, Objetivo e Ligações</p>
-                    <FormControl as="textarea" />
-                </InputGroup>
+            <p>Conceito, Objetivo e Ligações</p>
+            <TextArea 
+                autoSize={{ minRows: 3, maxRows: 6 }}
+            />
         </div>
     )
 }

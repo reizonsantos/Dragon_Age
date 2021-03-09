@@ -1,15 +1,17 @@
 import React from 'react'
 import './spells.css'
-import 'bootstrap/dist/css/bootstrap.min.css';
-import { InputGroup, FormControl } from 'react-bootstrap'
+import 'antd/dist/antd.css';
+
+import { Input } from 'antd'
+const { TextArea } = Input;
 
 export default function () {
     return (
         <div className='spellsContainer'>
-            <InputGroup>
-                    <p>Poderes de classe e Feitiço</p>
-                    <FormControl as="textarea" />
-                </InputGroup>
+            <p>Poderes de Classe e Feitiço</p>
+            <TextArea 
+                autoSize={{ minRows: 2, maxRows: 6 }}
+            />
         </div>
     )
 }

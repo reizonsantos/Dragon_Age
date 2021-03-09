@@ -8,8 +8,12 @@ import Information from '../information/information'
 import Status from '../status/status'
 import Armor from '../armor/armor'
 import Inventory from '../inventory/inventory'
+import Spells from '../spells/spells'
+import Bag from '../bag/bag'
+import Story from '../story/story'
 
-export default function CreateCharacterPage() {
+
+export default function () {
     // const layout = {
     //     labelCol: {
     //         span: 10,
@@ -28,11 +32,13 @@ export default function CreateCharacterPage() {
     return(
         <div className="createCharacterContainer">
             <div>
-                <Armor />
+                <Spells />
+                <Bag />
+                <Story />
             </div>
             <div>Paginação</div>
             <div className="progress">
-                <Progress percent={50} status="active" />
+                <Progress percent={50} />
             </div>
         </div>
     )

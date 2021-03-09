@@ -1,0 +1,4 @@
+.bagContainer{
+    display: flex;
+    flex-direction: column;
+}

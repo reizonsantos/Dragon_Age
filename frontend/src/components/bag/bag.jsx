@@ -1,15 +1,17 @@
 import React from 'react'
 import './bag.css'
-import 'bootstrap/dist/css/bootstrap.min.css';
-import { InputGroup, FormControl } from 'react-bootstrap'
+import 'antd/dist/antd.css';
+
+import { Input } from 'antd'
+const { TextArea } = Input;
 
 export default function () {
     return (
         <div className='bagContainer'>
-            <InputGroup>
-                    <p>Equipamento e Dinheiro</p>
-                    <FormControl as="textarea" />
-                </InputGroup>
+            <p>Equipamento e Dinheiro</p>
+            <TextArea 
+                autoSize={{ minRows: 3, maxRows: 6 }}
+            />
         </div>
     )
 }

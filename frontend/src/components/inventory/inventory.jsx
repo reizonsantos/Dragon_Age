@@ -1,8 +1,8 @@
-import React from 'react'
+import React, { useState } from 'react'
 import './inventory.css'
 import 'antd/dist/antd.css';
 
-import { Table } from 'antd';
+import { Table, Modal, Button, Form, Input, InputNumber } from 'antd';
 
 const columns = [
   {
@@ -46,13 +46,36 @@ const data = [
 ];
 
 export default function () {
+  const[visible, setVisible] = useState(false);
+
     return (
         <div className="inventoryContainer">
             <div className="tableWeapon">
                 <Table columns={columns} dataSource={data} />
             </div>
-            <div>
-                Botao de adicionar
+            <div className="modalAddWeapon">
+                <Button type="primary" onClick={() => setVisible(true)}>
+                    Adicionar
+                </Button>
+                <Modal
+                  title="Adicione suas armas"
+                  centered
+                  visible={visible}
+                  onOk={() => setVisible(false)}
+                  onCancel={() => setVisible(false)}
+                >
+                  <Form>
+                    <Form.Item label="Arma" name="weaponName">
+                      <Input />
+                    </Form.Item>
+                    <Form.Item label="Ataque" name="weaponAttack">
+                      <InputNumber />
+                    </Form.Item>
+                    <Form.Item label="Dano" name="weaponDamage">
+                      <Input />
+                    </Form.Item>
+                  </Form>
+                </Modal>
             </div>
         </div>
     )
